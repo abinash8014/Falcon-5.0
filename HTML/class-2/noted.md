@@ -48,15 +48,18 @@ Syntax :
 
 <table>
     <tr>
-        <th> </th>
+        <th>heading 1</th>
+        <th>heading 2</th>
     </tr>
 
     <tr>
-        <td></td>
+        <td>cell 1</td>
+        <td>cell 2</td>
     </tr>
 </table>
 
 # Task-1 :
+
 Create a simple HTML page with the following elements :
 - a tag contains heading 
 - sub heading 
@@ -65,3 +68,9 @@ Create a simple HTML page with the following elements :
 - make a MCq question format
 - add your friend list in unordered list
 - make a table of data(name,age,city,gender,college)
+
+## Semantic Tags :
+
+- Semantic tag is clearly describe a human and machine readable way.
+- It is used to define different parts of an HTML document.
+- It is used for SEO purpose.
