@@ -1,4 +1,4 @@
-# HTML :
+## HTML :
 
 - HTML stands for Hyper Text markup Language
 - It is used to create web pages,
